@@ -1,0 +1,26 @@
+{
+  "name": "test_sequelize_mysql",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "no",
+  "scripts": {
+    "start": "supervisor app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "wanghes",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.41.2",
+    "supervisor": "^0.12.0"
+  }
+}
